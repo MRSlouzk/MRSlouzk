@@ -18,5 +18,13 @@ I'm currently learning java, I want to be an android development engineerer in t
 I have two github account, this is for amateur development, another is for some formal development projects(keep secret). You can contact me on QQ mail: mrslouzk@qq.com, I am glad to acknowledge some new friends. You can also contact me by [bilibili](https://space.bilibili.com/634651362)(a video website), send private messages to me.    
 我有两个github账号,这个是作为业余开发的账号,另一个是做一些正式的开发项目使用的(目前保密)。你可以通过QQ邮箱:**mrslouzk@qq.com**来联系我，我很乐意结识更多的人。你也可以通过[哔哩哔哩](https://space.bilibili.com/634651362)(一个视频网站)来私信联系我。
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MRSlouzk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSlouzk&layout=compact" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MRSlouzk&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ </div>
+ <div align="center"> 
+ <a href="https://space.bilibili.com/634651362/dynamic">
+  <img height="144px" weight="250px" src="https://stats.justsong.cn/api/bilibili/?id=634651362" />
+   </a> 
+</div>
