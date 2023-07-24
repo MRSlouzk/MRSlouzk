@@ -1,3 +1,5 @@
+# 准备考研中，停更所有项目，欢迎继续开发
+
 # Who I am(我是谁)?
 I'm a twenty years old student and studying communication in university, I will take the postgraduate examination this year, so I don't have any time to commit something.    
 我是一个21岁的学生，目前在大学中就读通信工程专业, 我今年会参加研究生考试,所以没时间更新东西。
